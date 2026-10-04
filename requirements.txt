@@ -1,0 +1,14 @@
+# Unpinned minimum. After a successful run, pin the exact versions:  pip freeze > requirements-lock.txt
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+torch
+transformers
+datasets
+accelerate
+shap
+requests
+openpyxl

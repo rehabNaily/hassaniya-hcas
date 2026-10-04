@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+# Secrets - never commit
+.env
+*.key
+# Model checkpoints and large outputs
+*.pt
+*.bin
+*.safetensors
+/Hassaniya_HCAS_v7_results/
+# Source corpus text must not be redistributed without checking its licence
+data/raw/
+*.xlsx
+# OS / editor
+.DS_Store
+Thumbs.db
