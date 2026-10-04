@@ -17,7 +17,7 @@ Code, annotation guide and human ratings accompanying the manuscript
 
 ## Quick start
 ```bash
-git clone https://github.com/[rehabNaily]/hassaniya-hcas.git
+git clone https://github.com/rehabNaily/hassaniya-hcas.git
 cd hassaniya-hcas
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
