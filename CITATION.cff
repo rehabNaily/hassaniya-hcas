@@ -3,13 +3,13 @@ message: "If you use this repository, please cite it as below."
 title: "H-CAS: code and human ratings for the evaluation of Hassaniya Arabic"
 type: software
 authors:
-  - family-names: "[Naily]"
-    given-names: "[Rehab]"
+  - family-names: "Naily"
+    given-names: "Rehab"
     orcid: "https://orcid.org/0009-0007-5338-4131"
 version: "0.1.0"
 date-released: "2026-10-04"
 license: MIT
-repository-code: "https://github.com/[rehabNaily]/hassaniya-hcas"
+repository-code: "https://github.com/rehabNaily/hassaniya-hcas"
 keywords:
   - Hassaniya
   - Arabic dialects
