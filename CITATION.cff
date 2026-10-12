@@ -1,18 +1,22 @@
 cff-version: 1.2.0
-message: "If you use this repository, please cite it as below."
-title: "H-CAS: code and human ratings for the evaluation of Hassaniya Arabic"
+message: "If you use this software or these ratings, please cite the article below."
+title: "H-CAS: code and human ratings for a leakage-free, human-rated evaluation of sentiment models for Hassaniya Arabic"
 type: software
-authors:
-  - family-names: "Naily"
-    given-names: "Rehab"
-    orcid: "https://orcid.org/0009-0007-5338-4131"
-version: "0.1.0"
-date-released: "2026-10-04"
 license: MIT
 repository-code: "https://github.com/rehabNaily/hassaniya-hcas"
-keywords:
-  - Hassaniya
-  - Arabic dialects
-  - less-resourced languages
-  - evaluation
-  - inter-annotator agreement
+authors:
+  - family-names: Naily
+    given-names: Rehab
+    affiliation: "National Engineering School of Gabès"
+    email: riheb.naili@isimg.tn
+  # TODO: add the co-authors (including the two annotators) exactly as in the manuscript
+preferred-citation:
+  type: article
+  title: "What Macro-F1 Cannot Tell: A Leakage-Free, Human-Rated Evaluation of Sentiment Models for Hassaniya Arabic"
+  authors:
+    - family-names: Naily
+      given-names: Rehab
+    # TODO: same author list as the manuscript
+  journal: "Language Resources and Evaluation"
+  year: 2026
+  notes: "Submitted"
